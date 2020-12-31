@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MiDI/1.0.0": {
+        "dependencies": {
+          "Melanchall.DryWetMidi": "5.1.2"
+        },
+        "runtime": {
+          "MiDI.dll": {}
+        }
+      },
+      "Melanchall.DryWetMidi/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/Melanchall.DryWetMidi.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Melanchall.DryWetMidi/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RgGf+uNRA4RaappCm0V7YDX7RDuXuTa1HNmHSm2MLZj+537TZJQr3fb0xpDetsqrb4up1usBUCiq0o3JwnQy2A==",
+      "path": "melanchall.drywetmidi/5.1.2",
+      "hashPath": "melanchall.drywetmidi.5.1.2.nupkg.sha512"
+    }
+  }
+}

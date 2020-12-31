@@ -1,0 +1,9 @@
+C:\Users\yakul\source\repos\MiDI\MiDI\bin\Release\netcoreapp3.1\MiDI.deps.json
+C:\Users\yakul\source\repos\MiDI\MiDI\bin\Release\netcoreapp3.1\MiDI.dll
+C:\Users\yakul\source\repos\MiDI\MiDI\bin\Release\netcoreapp3.1\MiDI.pdb
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.csprojAssemblyReference.cache
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.AssemblyInfoInputs.cache
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.AssemblyInfo.cs
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.csproj.CoreCompileInputs.cache
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.dll
+C:\Users\yakul\source\repos\MiDI\MiDI\obj\Release\netcoreapp3.1\MiDI.pdb

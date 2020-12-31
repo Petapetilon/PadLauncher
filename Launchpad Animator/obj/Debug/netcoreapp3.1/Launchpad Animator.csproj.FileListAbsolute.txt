@@ -1,0 +1,19 @@
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.exe
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.deps.json
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.runtimeconfig.json
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.runtimeconfig.dev.json
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.dll
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\Launchpad Animator.pdb
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\MiDI.dll
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\MiDI.pdb
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.csprojAssemblyReference.cache
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad_Animator.LaunchpadSelectionLabel.resources
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.csproj.GenerateResource.cache
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.AssemblyInfoInputs.cache
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.AssemblyInfo.cs
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.csproj.CopyComplete
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.dll
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.pdb
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.genruntimeconfig.cache
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\yakul\source\repos\MiDI\Launchpad Animator\obj\Debug\netcoreapp3.1\Launchpad Animator.csproj.CoreCompileInputs.cache

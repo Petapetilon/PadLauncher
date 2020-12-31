@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6ck6LE1nqRz6YkfyFx2RqqmJe895XH3Zw78FBVC87l284Rx+Ru2VaJjhR10RON5S8fdlRWgUcWUL9r1vb2ggA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yakul\\source\\repos\\MiDI\\Launchpad Animator\\Launchpad Animator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yakul\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\yakul\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\yakul\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\yakul\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\yakul\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\yakul\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <RootNamespace>MiDI</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+</Project>
